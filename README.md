@@ -1,2 +1,2 @@
 # 75DaysLeetCodeChallenge
-solving and Documenting my LeetCode Journey
+Solving and Documenting my LeetCode Journey
