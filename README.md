@@ -1,4 +1,4 @@
-# 75DaysLeetCodeChallenge
+# LeetCode Grind
 Solving and Documenting my LeetCode Journey
 
 <!---LeetCode Topics Start-->
